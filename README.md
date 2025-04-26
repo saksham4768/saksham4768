@@ -58,7 +58,7 @@ I’m a Java Developer with 2 years of hands-on experience designing and buildin
 
 ### 📑 My Resume
 
-You can view or download my resume [here](./saksham4768/Saksham%20Vaishya.pdf).
+You can view or download my resume [here](./Saksham%20Vaishya.pdf).
 
 ### 📊 GitHub Stats
 

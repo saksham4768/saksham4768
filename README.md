@@ -2,11 +2,15 @@
 
 ## Software Engineer
 
-👨‍💻 I’m a Java Developer with 2 years of hands-on experience designing and building scalable REST APIs using Spring Boot. I follow best practices like layered architecture, DTO mapping, exception handling, and modular service design to ensure clean, maintainable code.
+👨‍💻 I'm a Java Developer with 2 years of hands-on experience in designing and building scalable, low-latency REST APIs using Spring Boot. I follow clean code practices like layered architecture, DTO mapping, global exception handling, and modular service design to ensure maintainability and testability.
 
-🧠 I focus on performance, scalability, and security across the stack — from API rate limiting to using pagination, caching, and connection pooling where needed.
+⚙️ I build backend systems that prioritize performance, scalability, and reliability — implementing API rate limiting, pagination, caching, and connection pooling where required.
 
-📦 Comfortable working with Git, PostgreSQL/MySQL, and modern development tools, I enjoy learning and optimizing backend systems that scale as your product grows.
+🧵 I’ve worked on multithreaded backend systems to improve throughput and reduce latency, using thread pools and asynchronous processing to parallelize workloads.
+
+📊 I have hands-on experience with Spring Batch for batch processing of large datasets, integrating with schedulers (like @Scheduled) to automate jobs for data processing, reporting, and API integrations.
+
+🛠️ Comfortable with Git, PostgreSQL/MySQL, and modern development tools, I enjoy optimizing backend workflows that grow as your product scales.
 
 - ✉️ You can contact me at [sakshamvaish692@gmail.com](mailto:sakshamvaish692@gmail.com)
 

@@ -76,7 +76,7 @@
 
 ### 📑 My Resume
 
-You can view or download my resume [here](./Saksham%20Vaishya.pdf).
+You can view or download my resume [here](./Saksham.pdf).
 
 </td>
 
